@@ -1,4 +1,8 @@
 
+<!-- ![](./assets/visuothink.png) -->
+![](./assets/agentic_pipeline.png)
+
+
 # GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization
 
 <!-- <div align="center">
@@ -8,10 +12,6 @@
 <div align="center">
 <a href="https://github.com/ekonwang/GeoVista">💻 Code</a> | 📃 Paper | <a href="https://huggingface.co/LibraTree/GeoVista-RL-6k-7B">🤗 GeoVista-RL-6k-7B</a> | <a href="https://huggingface.co/datasets/LibraTree/GeoBench">🤗 GeoVista-Bench (GeoBench)</a>
 </div>
-
-
-<!-- ![](./assets/visuothink.png) -->
-![](./assets/agentic_pipeline.png)
 
 ## Quick Start
 
