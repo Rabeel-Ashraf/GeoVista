@@ -33,13 +33,16 @@ from [HuggingFace](https://huggingface.co/LibraTree/GeoVista-RL-6k-7B) and place
 
 4. Run an example inference
 
+[TODO]()
+
+![](assets/figure_1_thinking_trajectory.png)
 
 
 ## Benchmarks
 
 ![](assets/figure-2-benchmark-evaluation.png)
 
-We have already released the [GeoBench](https://huggingface.co/datasets/LibraTree/GeoBench) Dataset on HuggingFace 🤗, a benchmark that includes photos and panoramas from around the world, along with a subset of satellite images of different cities to rigorously evaluate the geolocalization ability of agentic models.
+- We have already released the [GeoBench](https://huggingface.co/datasets/LibraTree/GeoBench) Dataset on HuggingFace 🤗, a benchmark that includes photos and panoramas from around the world, along with a subset of satellite images of different cities to rigorously evaluate the geolocalization ability of agentic models.
 
 <!-- ![](assets/figure-3-benchmark.png) -->
 
@@ -47,9 +50,9 @@ We have already released the [GeoBench](https://huggingface.co/datasets/LibraTre
   <img src="assets/figure-3-benchmark.png" width="50%">
 </p>
 
-GeoBench is a high-resolution, multi-source, globally annotated dataset to evaluate models’ general geolocalization ability.
+- GeoBench is a high-resolution, multi-source, globally annotated dataset to evaluate models’ general geolocalization ability.
 
-We assess benchmarks along five axes: **Global Coverage (GC)**, indicating whether images span diverse regions worldwide; **Reasonable Localizability (RC)**, measuring whether non-localizable or trivially localizable images are filtered out to preserve meaningful difficulty; **High Resolution (HR)**, requiring all images to have at least (1,\mathrm{M}) pixels for reliable visual clue extraction; **Data Variety (DV)**, capturing whether multiple image modalities or sources are included to test generalization; and **Nuanced Evaluation (NE)**, which checks whether precise coordinates are available to enable fine-grained distance-based metrics such as haversine error.
+- We assess other geolocalization benchmarks with ours along five axes: **Global Coverage (GC)**, indicating whether images span diverse regions worldwide; **Reasonable Localizability (RC)**, measuring whether non-localizable or trivially localizable images are filtered out to preserve meaningful difficulty; **High Resolution (HR)**, requiring all images to have at least (1,\mathrm{M}) pixels for reliable visual clue extraction; **Data Variety (DV)**, capturing whether multiple image modalities or sources are included to test generalization; and **Nuanced Evaluation (NE)**, which checks whether precise coordinates are available to enable fine-grained distance-based metrics such as haversine error.
 
 
 | **Benchmark**                                                                 | **Year** | **GC** | **RC** | **HR** | **DV** | **NE** |
