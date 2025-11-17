@@ -154,11 +154,7 @@ You can acclerate the evaluation process by changing the `workers` argument in t
 
 - To be released soon.
 
-## Acknowledgements
-
-- (TODO)
-
-## Citation
+## BibTex
 Please consider citing our paper and starring this repo if you find them helpful. Thank you!
 ```bibtex
 @misc{wang2025geovista,
@@ -168,3 +164,8 @@ Please consider citing our paper and starring this repo if you find them helpful
       url={https://github.com/ekonwang/GeoVista}, 
 }
 ```
+
+## Acknowledgements
+
+- We thank [Tavily](https://www.tavily.com/), [Google Cloud](https://cloud.google.com/) for providing reliable web search API and geocoding services for research use. Also we thank [Mapillary](https://www.mapillary.com/?locale=zh_CN) for providing high-quality street-level images around the world.
+- We would like to thank the contributors to the [VeRL](https://github.com/volcengine/verl), [TRL](https://github.com/huggingface/trl), [gpt-researcher](https://github.com/assafelovic/gpt-researcher) repositories, for their open research.
