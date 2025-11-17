@@ -70,8 +70,7 @@ from [HuggingFace](https://huggingface.co/LibraTree/GeoVista-RL-6k-7B) and place
 
 We provide the whole inference and evaluation pipeline for GeoVista on GeoBench.
 
-- (Release soon) To run evaluation on GeoBench, please refer to [evaluation.md](docs/evaluation.md).
-
+- To run evaluation on GeoBench, please refer to [evaluation.md](docs/evaluation.md) for **complete pipeline and guidance**.
 
 ## Acknowledgements
 

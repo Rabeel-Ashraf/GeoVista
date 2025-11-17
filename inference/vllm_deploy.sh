@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Default values
-MODEL_NAME=/home/models/1023_search_v4_n8-global_step_180
+MODEL_NAME=.temp/checkpoints/LibraTree/GeoVista-RL-12k-7B
 
 export CUDA_VISIBLE_DEVICES="0,1,2,3"
 HOST="0.0.0.0"
