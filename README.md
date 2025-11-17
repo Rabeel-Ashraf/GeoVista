@@ -48,7 +48,7 @@ bash inference/vllm_deploy_geovista_rl_6k.sh
 4. Run an example inference
 
 ```bash
-python eval/example.py \
+python examples/example.py \
 --multimodal_input examples/geobench-example.png \
 --question "Please analyze where is the place."
 ```
