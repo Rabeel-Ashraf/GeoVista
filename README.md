@@ -10,7 +10,7 @@
 </div> -->
 
 <div align="center">
-<a href="https://github.com/ekonwang/GeoVista">💻 Code</a> | 📃 Paper | <a href="https://huggingface.co/LibraTree/GeoVista-RL-6k-7B">🤗 GeoVista-RL-6k-7B</a> | <a href="https://huggingface.co/datasets/LibraTree/GeoBench">🤗 GeoVista-Bench (GeoBench)</a> | <a href="https://ekonwang.github.io/geo-vista/"><img src="https://github.githubassets.com/favicons/favicon.svg" width="16" alt="GitHub"> GitHub Page</a>
+<a href="https://github.com/ekonwang/GeoVista">💻 Code</a> | 📃 Paper | <a href="https://huggingface.co/LibraTree/GeoVista-RL-6k-7B">🤗 GeoVista-RL-6k-7B</a> | <a href="https://huggingface.co/datasets/LibraTree/GeoBench">🤗 GeoVista-Bench (GeoBench)</a> | <a href="https://ekonwang.github.io/geo-vista/"><img src="https://github.githubassets.com/favicons/favicon.svg" width="16" alt="GitHub"> Project Page</a>
 </div>
 
 ## Quick Start
